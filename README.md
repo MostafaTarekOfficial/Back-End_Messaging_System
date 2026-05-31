@@ -1,6 +1,6 @@
 # Backend Messaging & Profile System 🚀
 
-This is a scalable RESTful API built with **Node.js** and **Express.js**, following the **MVC architecture**. It was developed during the GDG Benha Backend Bootcamp (2026), where our project was recognized as the **"Best Team"** project.
+This is a scalable RESTful API built with **Node.js** and **Express.js**, following the **MVC architecture**. It was developed during the GDG Benha Backend Bootcamp (2026) at only **One Hour**, where our project was recognized as the **"Best Team"** project.
 
 ## 🌟 Key Features
 - **Secure Authentication:** Implemented using **JWT** (JSON Web Tokens).
